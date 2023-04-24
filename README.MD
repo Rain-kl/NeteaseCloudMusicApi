@@ -68,7 +68,7 @@ v4.0.8 加入了 Vercel 配置文件,可以直接在 Vercel 下部署了,不需�
 ### 操作方法
 
 1. fork 此项目
-2. 在 Vercel 官网点击 `New Project`
+2. 在 Vercel [官网](https://vercel.com/)点击 `New Project`
 3. 点击 `Import Git Repository` 并选择你 fork 的此项目并点击`import`
 4. 点击 `PERSONAL ACCOUNT` 的 `select`
 5. 直接点`Continue`
